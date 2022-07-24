@@ -1,0 +1,841 @@
+{
+    "00bfff0e-46ad-bc79-c0fc-03331a0cb2a9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Tree Oak.mesh.nasset/Tree Oak.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "01b97ea6-de4e-4eab-8ce9-9468edce52eb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnails/Quack_Attack_Thumb.tex.nasset"
+    },
+    "02760883-2ad4-1bb0-210d-05cee77b32e7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Water 02.mesh.nasset/Water 02 Water 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "02a2dd90-9949-a731-246c-c06800354c44": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_crosshairWhiteOutlineLG_D.tex.nasset"
+    },
+    "05a29959-1e2a-14f2-a0f3-ec3847799a59": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Curtain Top..mesh.nasset/Curtain Top. Curtain Top.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "06636eba-d6fd-44c2-4f79-772d16a4f971": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Duck Brown.mtli.nasset"
+    },
+    "07bdb8aa-1ee0-4439-5f62-9cf444bdc5ba": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_iconBulletGoldLG_D.tex.nasset"
+    },
+    "08e3a3a4-fcec-96b9-b16c-3fa85430e5f6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Icon.mesh.nasset/Duck Icon.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0942afa3-266e-15a2-629a-e7d6b77e8c9e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Water.mtli.nasset"
+    },
+    "0ac29977-83c8-6a86-88d2-1a44208c040a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Time Up.mtli.nasset"
+    },
+    "0be594c4-3493-97ef-95a9-77ccf8dd7b66": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Wood Panel.mtli.nasset"
+    },
+    "0ce9afec-9056-693d-26c2-817fddcac39b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Curtain Side.mtli.nasset"
+    },
+    "0f1eed1a-441f-d242-12f7-faa10a160989": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Crosshair.mesh.nasset/Crosshair Crosshair.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "123f23e9-2fc9-1708-ff4e-706f6754cf58": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Grass 02.mesh.nasset/Grass 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "12eb12ab-166e-66b6-45f7-c33ecb4fb6de": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Target Red.mesh.nasset/Target Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "134e062b-b035-decc-8c06-0de7b49ded54": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Tree Oak.mtli.nasset"
+    },
+    "1393acf9-cbb9-5261-f0c6-ee4eb9fbd61f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Time Up.mesh.nasset/Time Up.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "149696ef-2d09-c887-c35a-8cef3866de7d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Grass 02.mesh.nasset/Grass 02 Grass 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "14ca0235-1e3f-4d2e-e041-04feab2d630d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Curtain Left.mesh.nasset/Curtain Left Curtain Side.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "15bb389d-7f67-960a-a9f6-eeb5982c923f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_duckBackOutline_D.tex.nasset"
+    },
+    "1c947869-6dbe-fc53-53d9-eec44ecb44fd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Score 02.mtli.nasset"
+    },
+    "1dd731e9-aabe-6c27-3348-aacce8a8a5ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Wood Panel.mesh.nasset/Wood Panel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1f4b3b6c-4eb6-4b10-8811-3cb4ba59276a": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "thumbnail": "01b97ea6-de4e-4eab-8ce9-9468edce52eb"
+    },
+    "20dbc503-e349-65c8-63ce-8da4f1ba4bd8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Yellow Back.mesh.nasset/Duck Yellow Back Duck Back.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "21d20c0b-2580-ad56-4ea6-0a574f4a7a4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Score 02.mesh.nasset/Score 02 Score 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "22915698-8105-009c-ecb7-ab21edb7dd20": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Target Outline.mesh.nasset/Target Outline.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "25443088-69e2-9e6d-d4ce-2aceb94aeca6": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Score 01.mtli.nasset"
+    },
+    "2885dadd-970b-e1e7-6569-803a6c9e3cee": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Water.mesh.nasset/Water.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "288b90d6-3dff-d26a-e97f-3b0b3fe292ca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Tree Pine.mesh.nasset/Tree Pine Tree Pine.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "29c85626-fa51-6154-139a-c36134708536": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Wood Panel.mesh.nasset/Wood Panel Wood Panel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2a2c0044-c00f-c7d4-dcb3-8210c2c701c7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_bgWood_D.tex.nasset"
+    },
+    "2b19f54e-c363-5b4f-c260-ba6501b0ccee": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Target Metal Post.mtli.nasset"
+    },
+    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
+    },
+    "2c18ca3c-b9f1-18a4-3550-7032d78c7a8b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Shelf Bottom.mesh.nasset/Shelf Bottom Wood Panel.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3243dafb-7230-522b-94b9-435f0cf8d44b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grass02_D.tex.nasset"
+    },
+    "331378e6-0275-2261-32d4-1607b349d393": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Score 03.mtli.nasset"
+    },
+    "364b6d40-9cf4-177d-474c-67f515b6f3df": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Water02_D.tex.nasset"
+    },
+    "3782b442-30e0-fd63-ad1b-3b8ad96dbdfb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Rope Right.mesh.nasset/Rope Right.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "39ace4d0-0745-646b-3171-fb1d7cb0a5eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Border Vert.mesh.nasset/Border Vert.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3a8a24a6-a201-6917-7e4d-98c78e09e668": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Player Rifle.mesh.nasset/Player Rifle Player Rifle.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3bb140a5-e77c-c27c-6c69-793877f8cc5f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Rope Left.mesh.nasset/Rope Left.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3f6476e6-01da-4a5b-494e-342e218a8ab2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Grass01_D.tex.nasset"
+    },
+    "4100fbef-32fb-4b08-f94f-578b1062ccee": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck White Target.mesh.nasset/Duck White Target.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4115ce22-9eb1-ad65-224b-c207de4b91cc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_iconDuck_D.tex.nasset"
+    },
+    "42921779-7671-ab64-800c-18d85a7948db": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Grass 01.mtli.nasset"
+    },
+    "439d0a88-9776-0cf5-bed1-9332b0633cf6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_number01_D.tex.nasset"
+    },
+    "43b6ab99-dbfd-6da7-3ae4-1e0d2c034503": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_curtainStraight_D.tex.nasset"
+    },
+    "44aed114-9eab-3663-d251-98f94ea2ce2e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Water01_D.tex.nasset"
+    },
+    "45165889-5df1-cfaf-771f-439b364f14c3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Border.mtli.nasset"
+    },
+    "46dc8f46-62ea-9921-0f52-a2991995209f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Yellow Target.mesh.nasset/Duck Yellow Target Duck Yellow Target.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "47d00dec-f880-b8c6-c043-27d28031a6de": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Cloud01_D.tex.nasset"
+    },
+    "47da966c-4a31-dce4-3c18-44750c614370": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Duck White Target.mtli.nasset"
+    },
+    "49ab6910-edfa-e37c-cc85-410e40990348": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Curtain Straight.mtli.nasset"
+    },
+    "4b9a13d7-d15f-bca9-7c71-e89ecd08d452": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck White Back.mesh.nasset/Duck White Back.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4bd7dc7f-fe40-144d-ae67-28c89f79ab89": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Border Vert.mesh.nasset/Border Vert Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4be35a3f-802d-0db7-4045-3b9c70571c01": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Icon.mesh.nasset/Duck Icon Duck Icon.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5045f74d-c104-6005-ccca-e5ab66f7fad6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Wood Post.mesh.nasset/Duck Wood Post.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "509c8bc0-d4af-9c8e-ae4b-4845ccc2e39b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Yellow Back.mesh.nasset/Duck Yellow Back.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "50c17196-3dc8-b378-5bab-1554a3c91103": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Curtain Straight.mesh.nasset/Curtain Straight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "510a92ad-7d9b-a73e-2d9d-86706022c82a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_treePine_D.tex.nasset"
+    },
+    "53a20972-ee3b-ac52-1880-2a3df03ef1a1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Time Up.mesh.nasset/Time Up Time Up.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "56fa1dbd-ebd3-1b88-faea-b7df0fd924c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Target Outline.mesh.nasset/Target Outline Target Outline.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5b4538a8-3267-68ec-1237-d2e3d2e25d79": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Cloud.mtli.nasset"
+    },
+    "5e0e007c-0f8b-2519-38d6-3465f4ebf9f9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/SC_Quack.scene.nasset"
+    },
+    "5eec513a-d2e1-a9dc-b0fd-1997e53a72c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Bullet.mesh.nasset/Bullet.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5f07fbed-6c7a-3a1a-c995-6357e81775f9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Target Red.mtli.nasset"
+    },
+    "604f62b1-3889-88d1-9154-f30846dfe9f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Score 03.mesh.nasset/Score 03 Score 03.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6199411b-34b1-3ca1-3695-a5a447177cdd": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Duck Yellow Target.mtli.nasset"
+    },
+    "628b021c-761c-112f-886e-0296ec45fb6a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_woodMountFixedOutline_D.tex.nasset"
+    },
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
+    },
+    "69bd42d8-c120-b875-9b70-1236875416ba": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Duck Wood Post.mtli.nasset"
+    },
+    "6cbf7b0d-2aa8-eaa1-140b-9cad2b41faf6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Rope Right.mesh.nasset/Rope Right Rope.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6f296d8b-dab3-5645-bff2-bc56548e952c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_timeUp_D.tex.nasset"
+    },
+    "706ab6e2-c603-6e68-d240-72ab6d3f12f3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Target Metal Post.mesh.nasset/Target Metal Post.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "70c252d1-71e9-4917-2c03-c98b624d42b0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Shelf Bottom.mesh.nasset/Shelf Bottom.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "70cbb875-2759-e0f0-3733-34b3e758a91d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Curtain Straight.mesh.nasset/Curtain Straight Curtain Straight.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7528dc9d-f29f-cca8-7060-1da116818930": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Brown Target.mesh.nasset/Duck Brown Target.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "75635b06-cea4-c4b9-6fd3-a97787317a66": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Brown Back.mesh.nasset/Duck Brown Back Duck Back.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "762a8f24-9caa-2c06-8240-090bbe2bf271": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Player Rifle.mtli.nasset"
+    },
+    "764ccb11-d7b4-5a56-3884-b7af9b047aea": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_number02_D.tex.nasset"
+    },
+    "76fb57dd-15fd-2ad8-17ef-bfca1092f51e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Tree Pine.mtli.nasset"
+    },
+    "7c2a722d-a013-2b0c-f619-f12050cdaf10": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_duckBrownOutline_D.tex.nasset"
+    },
+    "7c4edeff-31e6-aea6-c502-84b2156b5bfa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Target Red Post.mesh.nasset/Target Red Post.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "806582b2-d89e-d85d-ed49-536b1599337c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Tree Pine.mesh.nasset/Tree Pine.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "816a22e7-adca-11ff-615a-c82423234207": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_targetRed03Outline_D.tex.nasset"
+    },
+    "888c3047-ed47-5d28-535d-5995dd6bf59a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Yellow Target.mesh.nasset/Duck Yellow Target.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "88e5e72e-ce96-6d9d-719e-42e9d4fb4180": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_treeOak_D.tex.nasset"
+    },
+    "896f7135-8b6a-46e8-4d25-d2514c182adf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Tree Oak.mesh.nasset/Tree Oak Tree Oak.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8af5563a-533c-77b9-0605-ec36179c682b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Curtain Right.mesh.nasset/Curtain Right.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "90e566b9-40bb-8bd5-e37f-4e01e30e5356": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Water.mesh.nasset/Water Water.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "916105ee-a4ef-b59f-af4b-9417ab4187a9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Score 02.mesh.nasset/Score 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "93b17fe5-44eb-0a82-7bf1-3eebf7ec4e6d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Cloud.mesh.nasset/Cloud Cloud.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9698e023-c1e0-6c4f-fa8c-b454572beb59": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Crosshair.mesh.nasset/Crosshair.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9735196b-2f15-a3d8-aa99-137e14682fc6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck White Target.mesh.nasset/Duck White Target Duck White Target.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9a36f92e-d11a-b215-6750-a49576caa6b7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Border Horiz.mesh.nasset/Border Horiz Border.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9eac2a56-01a6-b743-5749-065839d6fe11": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Player Rifle.mesh.nasset/Player Rifle.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9fd0d3e6-9ccb-6497-7d7b-54ca7685744d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_duckWhiteTargetOutline_D.tex.nasset"
+    },
+    "a07c8d4e-e243-22e4-5a22-c85a8a57ca06": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Target Red.mesh.nasset/Target Red Target Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a277c364-0726-ae36-e401-e984c0415f9c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Duck Icon.mtli.nasset"
+    },
+    "a47dea90-c5c8-1d19-338d-925f3ce11446": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Brown Target.mesh.nasset/Duck Brown Target Duck Brown.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a4d8c2d7-f4fa-a37d-b85f-c9548ecb0c60": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Curtain Top..mesh.nasset/Curtain Top..mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a67d39b2-a6d7-e746-ddee-6b2be3aa63c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck White Back.mesh.nasset/Duck White Back Duck Back.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a696ff84-8b61-3218-2816-0ff1de2c0417": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_curtainTop_D.tex.nasset"
+    },
+    "a83fff87-9b64-4666-68aa-223a99c078f3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Curtain Right.mesh.nasset/Curtain Right Curtain Side.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "aa12f6f2-c364-9dbf-c4aa-aa1ef81edff3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Brown Back.mesh.nasset/Duck Brown Back.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "aa3eefae-8dfc-8d06-c46d-f8e56cc8792e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Rope.mtli.nasset"
+    },
+    "ab60e7c2-3725-dfbf-5e81-ac7cdfab4701": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_targetOutline_D.tex.nasset"
+    },
+    "ae897c6e-c655-253f-a96a-17221b2f40d7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Bullet.mtli.nasset"
+    },
+    "b0040d39-6eb8-07b5-1b42-69ae282ddd6d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_curtainRope_D.tex.nasset"
+    },
+    "b2079c11-c54a-3b65-e713-c2eb625f3e57": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Rope Left.mesh.nasset/Rope Left Rope.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b28e0acd-befa-c9d3-d233-761eb035f21d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Grass 01.mesh.nasset/Grass 01 Grass 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b45b3c04-ed58-7cf8-b04b-5ef79dbd470b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_duckYellowTargetOutline_D.tex.nasset"
+    },
+    "b5219c78-e47f-42d0-820e-919dea709ed2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Quack Attack.scene.nasset"
+    },
+    "ba732989-3ae8-f407-145e-b618741c8a0a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Curtain Top.mtli.nasset"
+    },
+    "bc296ded-4b98-a22a-fcdc-e6f24649297a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Crosshair.mtli.nasset"
+    },
+    "bcde1cce-f303-a951-f100-cf80bbbb99b3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Target Metal Post.mesh.nasset/Target Metal Post Target Metal Post.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bea43000-19cb-0e29-f4d9-4a29218a682e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Bullet.mesh.nasset/Bullet Bullet.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c1a21181-defc-2fb9-0029-c601896f14b8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Cloud.mesh.nasset/Cloud.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c8147b3f-6696-9214-44a2-aa869dbe9a54": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Duck Wood Post.mesh.nasset/Duck Wood Post Duck Wood Post.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cd4aee00-346d-916d-e0d7-3a6f21fb0b03": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Score 01.mesh.nasset/Score 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d3baa2ea-397a-f9fe-5ba8-c7eac2f652b0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Curtain Left.mesh.nasset/Curtain Left.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
+    },
+    "d6734643-0c0f-fc61-d596-d5a86cab399d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Border Horiz.mesh.nasset/Border Horiz.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d69ae0ac-e446-56b3-35ac-eaabd55303ab": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_playerRifle_D.tex.nasset"
+    },
+    "d90affc7-715e-23ce-6785-8f7b99fd7c81": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Target Red Post.mesh.nasset/Target Red Post Target Metal Post.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d9b87edb-281c-9ecd-5a18-7d8468c92ecb": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Duck Back.mtli.nasset"
+    },
+    "da9d542c-2382-580d-6c7e-24c6e89ea371": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Grass 01.mesh.nasset/Grass 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e0371f78-6fc6-7e97-bd81-823fd0ab9d99": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_metalMountOutline_D.tex.nasset"
+    },
+    "e19ff9a1-0ed5-2754-028a-21e1ed02b552": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_curtainSide_D.tex.nasset"
+    },
+    "e6c81e16-cd84-3dd5-efc9-d4051259e6fe": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Water 02.mtli.nasset"
+    },
+    "e91b7414-1fd8-0458-33fc-7e65242eacc8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Score 01.mesh.nasset/Score 01 Score 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eb6a1605-23ef-99f5-e83b-678242f8022f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_number0_D.tex.nasset"
+    },
+    "ee3f1c75-31c1-8f9f-a2b2-0d2dd5ea2d63": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Score 03.mesh.nasset/Score 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f9bb3324-c7b3-d8d6-4b11-53c8bb7d1add": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Quack.scene.nasset/Water 02.mesh.nasset/Water 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fb0001e5-5d2b-59bf-6f84-d7219f1ed5a4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Target Outline.mtli.nasset"
+    },
+    "fc8a95b4-a482-da54-c6ce-3b1fe51e4f2f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/Grass 02.mtli.nasset"
+    }
+}
