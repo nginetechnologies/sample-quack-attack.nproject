@@ -13,7 +13,6 @@
     "library_directory": "lib",
     "thumbnail_guid": "01b97ea6-de4e-4eab-8ce9-9468edce52eb",
     "default_scene": "b5219c78-e47f-42d0-820e-919dea709ed2",
-    "repository": "https://github.com/nginetechnologies/ngine-templates/raw/master/Quack_Attack",
     "source": "Quack_Attack.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
