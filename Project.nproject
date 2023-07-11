@@ -1,6 +1,7 @@
 {
     "name": "Quack Attack",
     "guid": "1f4b3b6c-4eb6-4b10-8811-3cb4ba59276a",
+    "database_guid": "abb025f9-6cdb-dcc6-5f28-57628014889b",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,7 +13,8 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "01b97ea6-de4e-4eab-8ce9-9468edce52eb",
-    "default_scene": "b5219c78-e47f-42d0-820e-919dea709ed2",
+    "default_scene": "836de4e0-aba3-45d4-9571-12bb1dd56d2b",
+    "tags": [ "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9" ],
     "source": "Quack_Attack.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
