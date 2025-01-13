@@ -1,0 +1,20 @@
+{
+    "source": "A_Quack_Idle.fbx",
+    "skeleton": "fc845999-a095-1b07-3360-7f628ae5b3a1",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "fc845999-a095-1b07-3360-7f628ae5b3a1"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "7b82145d-3b30-4b07-a59d-188adb6cbab6"
+        }
+    ],
+    "guid": "7b82145d-3b30-4b07-a59d-188adb6cbab6",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "fc845999-a095-1b07-3360-7f628ae5b3a1"
+    ]
+}

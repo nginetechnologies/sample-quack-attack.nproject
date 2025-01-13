@@ -1,0 +1,24 @@
+{
+    "guid": "efb2f0e9-fe6f-fbae-53cb-52ddbd6e4965",
+    "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+    "dependencies": [
+        "ac0befd3-fdfd-491c-a266-f5a5a1ebd6b5",
+        "dd6fca6d-7469-921a-6092-7a8a95bf2321"
+    ],
+    "material": "ac0befd3-fdfd-491c-a266-f5a5a1ebd6b5",
+    "descriptor_contents": [
+        {
+            "texture": "dd6fca6d-7469-921a-6092-7a8a95bf2321"
+        }
+    ],
+    "push_constants": [
+        {
+            "type": 1,
+            "value": 0.0
+        },
+        {
+            "type": 1,
+            "value": 1.0
+        }
+    ]
+}

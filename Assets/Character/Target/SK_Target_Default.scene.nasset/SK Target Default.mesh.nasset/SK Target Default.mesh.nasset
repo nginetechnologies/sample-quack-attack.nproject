@@ -1,0 +1,196 @@
+{
+    "guid": "4ed16134-60b0-4b7b-f21f-30d0d04b52b7",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Target Default Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                },
+                {
+                    "typeGuid": "223c3cd4-ce54-4627-87f9-b6f27edb5311"
+                },
+                {
+                    "typeGuid": "77433f9b-3f2d-49be-847d-5c574a4ca51e",
+                    "maximumDamage": 1,
+                    "shouldCountAsKill": true
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "16324a86-fa45-40e3-a839-32ede39df20a",
+                            "up_animations": [
+                                "9933229d-3733-4f77-8f11-f366ae019927"
+                            ],
+                            "down_animations": [
+                                "0fd4719d-561b-4793-b285-e3d93d4c0271"
+                            ],
+                            "resetTime": 5
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Target Default Target Outline"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "89ee695e-3fcd-9f0d-869e-a8983c7b8935",
+                                "material_instance": "916273ae-7f0b-1d7f-5df6-cbcb4baf60e7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e35d929c-faf1-65fb-c4e7-8a7696f21bcd"
+                            },
+                            "instanceGuid": "544822de-bc1e-7161-5f68-4cd69177da22"
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Target Default Target Metal Post"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "cbce2ab6-8b40-4456-ec46-5c89337bb16f",
+                                "material_instance": "143bf3b8-6ce7-7dc5-6096-b79c269634e3"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d15c862a-636a-120f-ffa0-72b37f213695"
+                            },
+                            "instanceGuid": "43883220-c9c8-0027-34fc-9226cae3bf37"
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "7bfcfe14-93ca-1eca-ad03-e2b0b2d698cc"
+                    },
+                    "instanceGuid": "657a7fda-d404-fb32-6979-f16ae3b48236"
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Mesh Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Mesh Red"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "89ee695e-3fcd-9f0d-869e-a8983c7b8935",
+                                "material_instance": "916273ae-7f0b-1d7f-5df6-cbcb4baf60e7"
+                            },
+                            "instanceGuid": "1ccccc2f-f183-4a7d-4241-ed5ddda531e1"
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "89ee695e-3fcd-9f0d-869e-a8983c7b8935"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "instanceGuid": "c8b6bc38-f653-b37c-8545-8868fb2163a6"
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Mesh Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Mesh Red"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "cbce2ab6-8b40-4456-ec46-5c89337bb16f",
+                                "material_instance": "143bf3b8-6ce7-7dc5-6096-b79c269634e3"
+                            },
+                            "instanceGuid": "74b40b25-6ccd-42e1-fc1f-6bdcdc37feb2"
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "cbce2ab6-8b40-4456-ec46-5c89337bb16f"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "instanceGuid": "959fa308-c4d0-0a9f-14ad-48e2279a9f3b"
+                }
+            ],
+            "instanceGuid": "096bf6f2-c7ee-9b1f-6414-c6373f325344"
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4ed16134-60b0-4b7b-f21f-30d0d04b52b7"
+    },
+    "dependencies": [
+        "916273ae-7f0b-1d7f-5df6-cbcb4baf60e7",
+        "89ee695e-3fcd-9f0d-869e-a8983c7b8935",
+        "e35d929c-faf1-65fb-c4e7-8a7696f21bcd",
+        "143bf3b8-6ce7-7dc5-6096-b79c269634e3",
+        "cbce2ab6-8b40-4456-ec46-5c89337bb16f",
+        "d15c862a-636a-120f-ffa0-72b37f213695",
+        "7bfcfe14-93ca-1eca-ad03-e2b0b2d698cc",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ],
+    "instanceGuid": "f56e7a12-0ca8-bbff-9388-a3b5bdc9ff50"
+}

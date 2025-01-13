@@ -1,0 +1,19 @@
+{
+    "source": "A_Target_Down.fbx",
+    "skeleton": "7bfcfe14-93ca-1eca-ad03-e2b0b2d698cc",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "7bfcfe14-93ca-1eca-ad03-e2b0b2d698cc"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "0fd4719d-561b-4793-b285-e3d93d4c0271"
+        }
+    ],
+    "guid": "0fd4719d-561b-4793-b285-e3d93d4c0271",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "7bfcfe14-93ca-1eca-ad03-e2b0b2d698cc"
+    ]
+}
